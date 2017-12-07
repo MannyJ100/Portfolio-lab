@@ -1,6 +1,7 @@
 body, html {
 	padding:0px;
 	margin:0px;
+	font-family: 'Raleway', sans-serif;
 
 }
 
@@ -33,8 +34,8 @@ img {
 	height:480px;
 	float:left;
 	vertical-align: middle;
-	margin-top: 10px;
-	margin-left: 15px;
+	margin-top: 30px;
+	margin-left: 20px;
 	margin-right: 15px;
 }
 
@@ -48,6 +49,8 @@ img {
 
 #top_right {
 	height:480;
+	margin-right: 100px;
+	margin-left: 20px;
 }
 
 #bottom_left {
@@ -55,7 +58,7 @@ img {
 	width: 279px;
 	float:left;
 	display: block;
-	margin-left: 15px;
+	margin-left: 20px;
 	margin-right: 15px;
 }
 
@@ -63,3 +66,7 @@ li {
 	margin: 10px;
 }
 
+#bottom_right {
+	margin-right: 100px;
+	margin-left: 20px;
+}
