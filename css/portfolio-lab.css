@@ -1,13 +1,17 @@
+body, html {
+	padding:0px;
+	margin:0px;
+
+}
+
 #nav {
-	min-height: 50px;
 	background-color: black;
+	padding:10px;
 }
 
 
 #logo {
-	height: 47px;
 	width: 100px;
-	margin-top: 7px;
 }
 
 .navbar_brand> img {
@@ -57,6 +61,3 @@ li {
 	margin: 10px;
 }
 
-#bottom_right {
-
-}
